@@ -1,18 +1,19 @@
 {
-    "name": "maithemewp/mai-reach",
-    "authors": [
-        {
-            "name": "BizBudding",
-            "email": "team@bizbudding.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/maithemewp/mai-installer"
-        }
-    ],
-    "require": {
-        "maithemewp/mai-installer": "dev-master"
+  "name": "maithemewp/mai-reach",
+  "authors": [
+    {
+      "name": "BizBudding",
+      "email": "team@bizbudding.com"
     }
+  ],
+  "require": {
+    "maithemewp/mai-installer": "*"
+  },
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    },
+    "sort-order": true
+  },
+  "minimum-stability": "dev"
 }
