@@ -12,6 +12,6 @@
 // Load dependencies (do not remove).
 require_once __DIR__ . '/vendor/autoload.php';
 
-/*
- * Add your customizations below!
- */
+/**********************************
+ * Add your customizations below! *
+ **********************************/
