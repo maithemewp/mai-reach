@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '1aa3eedc2ae5768e88e2770ce156077fda2cb2e7',
+    'reference' => 'cb0e0c2ede1661bd9637a1bcdd901f2472a2f272',
     'name' => 'maithemewp/mai-reach',
   ),
   'versions' => 
@@ -52,7 +52,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
+      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
     ),
     'maithemewp/mai-reach' => 
     array (
@@ -61,7 +61,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '1aa3eedc2ae5768e88e2770ce156077fda2cb2e7',
+      'reference' => 'cb0e0c2ede1661bd9637a1bcdd901f2472a2f272',
     ),
   ),
 );
